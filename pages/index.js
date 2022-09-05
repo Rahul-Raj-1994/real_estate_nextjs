@@ -45,7 +45,7 @@ export default function Home({ propertiesForRent, propertiesForSale }) {
       <h1>Hello World</h1>
       <Banner
         purpose="BUY A HOME"
-        title1="Finf, Buy & Own Your"
+        title1="Find, Buy & Own Your"
         title2="Dream Home"
         desc1="Explore Apartments, Villas, Homes"
         desc2="and more"
