@@ -42,7 +42,6 @@ const Banner = ({
 export default function Home({ propertiesForRent, propertiesForSale }) {
   return (
     <Box>
-      <h1>Hello World</h1>
       <Banner
         purpose="BUY A HOME"
         title1="Find, Buy & Own Your"
